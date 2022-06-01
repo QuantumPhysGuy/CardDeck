@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mattwise/Projects/CardDeck/CardDeck.csproj": {}
+    "/Users/mattwise/Documents/Programming/Code/Repos/ClubRun/CardDeck/CardDeck.csproj": {}
   },
   "projects": {
-    "/Users/mattwise/Projects/CardDeck/CardDeck.csproj": {
+    "/Users/mattwise/Documents/Programming/Code/Repos/ClubRun/CardDeck/CardDeck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mattwise/Projects/CardDeck/CardDeck.csproj",
+        "projectUniqueName": "/Users/mattwise/Documents/Programming/Code/Repos/ClubRun/CardDeck/CardDeck.csproj",
         "projectName": "CardDeck",
-        "projectPath": "/Users/mattwise/Projects/CardDeck/CardDeck.csproj",
+        "projectPath": "/Users/mattwise/Documents/Programming/Code/Repos/ClubRun/CardDeck/CardDeck.csproj",
         "packagesPath": "/Users/mattwise/.nuget/packages/",
-        "outputPath": "/Users/mattwise/Projects/CardDeck/obj/",
+        "outputPath": "/Users/mattwise/Documents/Programming/Code/Repos/ClubRun/CardDeck/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

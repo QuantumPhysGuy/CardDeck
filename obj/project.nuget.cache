@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "alfBII4l891njbbsW32US5EoYL3oPmhem5xXLTv0/Cc2qra/YuxbHhRacfjWiJb/5/bBKzY5MSuhh6FtPU4CxA==",
+  "dgSpecHash": "dS+6AlJk6cliLChVeWh8D9AiKHBttfHByYG0sNKYinv4Z8aWAlG4huoA5g4s6A+KhOF8kjakBGS9dK/hDHhzHg==",
   "success": true,
-  "projectFilePath": "/Users/mattwise/Projects/CardDeck/CardDeck.csproj",
+  "projectFilePath": "/Users/mattwise/Documents/Programming/Code/Repos/ClubRun/CardDeck/CardDeck.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -2,6 +2,4 @@
 
 deck.ShuffleDeck();
 
-var c = deck.DealAllCards();
-
 Console.WriteLine(deck.DealCard().ToString());
